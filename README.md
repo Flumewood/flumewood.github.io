@@ -1,2 +1,0 @@
-# flumewood.github.io
-Flumewood
